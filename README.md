@@ -2,7 +2,7 @@
 
 Sandbox using Open Interpreter on containers.
 
-This project uses Open Interpreter.
+made with OpenInterpreter.
 
 ## Open Interpreter
 
