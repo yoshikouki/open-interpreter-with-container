@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  open-interpreter:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
