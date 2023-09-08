@@ -1,10 +1,8 @@
 # Open Interpreter with Container
-
-Sandbox using Open Interpreter on containers
-
-## Open Interpreter
-
-> Let language models run code on your computer.
-> An open-source, locally running implementation of OpenAI's Code Interpreter.
-
-https://github.com/KillianLucas/open-interpreter
+...
+## Installation
+To install the project, run the following command:
+```bash
+curl -sSL https://raw.githubusercontent.com/yoshikouki/open-interpreter-with-container/main/install.sh | bash
+```
+...
